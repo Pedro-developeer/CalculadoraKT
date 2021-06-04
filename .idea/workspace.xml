@@ -178,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622763638073</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Calculadora">
+      <created>1622766970339</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1622766970339</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -197,6 +204,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Calculadora" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="415" y="205" width="525" height="326" key="#Notifications" timestamp="1622767652523">
+      <screen x="0" y="0" width="1366" height="740" />
+    </state>
+    <state x="415" y="205" width="525" height="326" key="#Notifications/0.0.1366.740@0.0.1366.740" timestamp="1622767652523" />
     <state x="518" y="163" width="319" height="411" key="AndroidCreateXmlResourceDialog" timestamp="1622725112504">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
@@ -205,10 +216,10 @@
       <screen x="0" y="0" width="1366" height="740" />
     </state>
     <state x="461" y="126" width="424" height="481" key="FileChooserDialogImpl/0.0.1366.740@0.0.1366.740" timestamp="1622763450955" />
-    <state x="548" y="270" key="Github.ShareDialog" timestamp="1622764399580">
+    <state x="548" y="270" key="Github.ShareDialog" timestamp="1622767079734">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
-    <state x="548" y="270" key="Github.ShareDialog/0.0.1366.740@0.0.1366.740" timestamp="1622764399580" />
+    <state x="548" y="270" key="Github.ShareDialog/0.0.1366.740@0.0.1366.740" timestamp="1622767079734" />
     <state x="425" y="78" width="505" height="580" key="Github.UntrackedFilesDialog" timestamp="1622756131804">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
