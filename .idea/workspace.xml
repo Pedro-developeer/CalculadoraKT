@@ -18,11 +18,18 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1943b98b-a232-4d27-821a-29931f86845b" name="Default Changelist" comment="Calculadora" />
+    <list default="true" id="1943b98b-a232-4d27-821a-29931f86845b" name="Default Changelist" comment="Calculadora">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[VirtualDevicePath@/home/pedro/.android/avd/Pixel_3a_API_30_x86.avd]" />
   <component name="ExternalProjectsData">
@@ -49,8 +56,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -164,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622760168379</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Calculadora">
+      <created>1622763638073</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1622763638073</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,14 +201,14 @@
       <screen x="0" y="0" width="1366" height="740" />
     </state>
     <state x="518" y="163" width="319" height="411" key="AndroidCreateXmlResourceDialog/0.0.1366.740@0.0.1366.740" timestamp="1622725112504" />
-    <state x="461" y="126" width="424" height="481" key="FileChooserDialogImpl" timestamp="1622759897090">
+    <state x="461" y="126" width="424" height="481" key="FileChooserDialogImpl" timestamp="1622763450955">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
-    <state x="461" y="126" width="424" height="481" key="FileChooserDialogImpl/0.0.1366.740@0.0.1366.740" timestamp="1622759897090" />
-    <state x="548" y="270" key="Github.ShareDialog" timestamp="1622762686127">
+    <state x="461" y="126" width="424" height="481" key="FileChooserDialogImpl/0.0.1366.740@0.0.1366.740" timestamp="1622763450955" />
+    <state x="548" y="270" key="Github.ShareDialog" timestamp="1622764399580">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
-    <state x="548" y="270" key="Github.ShareDialog/0.0.1366.740@0.0.1366.740" timestamp="1622762686127" />
+    <state x="548" y="270" key="Github.ShareDialog/0.0.1366.740@0.0.1366.740" timestamp="1622764399580" />
     <state x="425" y="78" width="505" height="580" key="Github.UntrackedFilesDialog" timestamp="1622756131804">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
@@ -215,10 +229,18 @@
       <screen x="0" y="0" width="1366" height="740" />
     </state>
     <state width="1324" height="177" key="GridCell.Tab.0.right/0.0.1366.740@0.0.1366.740" timestamp="1622756361299" />
-    <state x="187" y="5" key="SettingsEditor" timestamp="1622759916725">
+    <state x="187" y="5" key="SettingsEditor" timestamp="1622763994377">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
-    <state x="187" y="5" key="SettingsEditor/0.0.1366.740@0.0.1366.740" timestamp="1622759916725" />
+    <state x="187" y="5" key="SettingsEditor/0.0.1366.740@0.0.1366.740" timestamp="1622763994377" />
+    <state x="516" y="242" width="324" height="252" key="VCS.EditChangelistDialog" timestamp="1622763578443">
+      <screen x="0" y="0" width="1366" height="740" />
+    </state>
+    <state x="516" y="242" width="324" height="252" key="VCS.EditChangelistDialog/0.0.1366.740@0.0.1366.740" timestamp="1622763578443" />
+    <state x="278" y="106" width="800" height="525" key="Vcs.Push.Dialog.v2" timestamp="1622763699833">
+      <screen x="0" y="0" width="1366" height="740" />
+    </state>
+    <state x="278" y="106" width="800" height="525" key="Vcs.Push.Dialog.v2/0.0.1366.740@0.0.1366.740" timestamp="1622763699833" />
     <state x="491" y="287" width="373" height="163" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1622759724724">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
